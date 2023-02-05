@@ -4,8 +4,9 @@
 A web responsive about me portfolio introducing a background to personal and work related history.
 
 ### Tools
-**
+*
 HTML
+*
 CSS
 
 ### Acceptance Criteria
