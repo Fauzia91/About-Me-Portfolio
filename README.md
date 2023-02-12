@@ -7,7 +7,7 @@ A web responsive portfolio introducing a background to personal and work history
 ### Table of Contents
 ***
 
-[Installation](#introduction)
+[Installation](#installation)
 [Usage](#usage)
 [Contributing](#contributing)
 [License](#license)
