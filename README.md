@@ -7,7 +7,7 @@ A web responsive about me portfolio introducing a background to personal and wor
 ### Table of Contents
 ***
 
-* Installation
+[Installation](#introduction)
 * Usage
 * Contributing
 * License
