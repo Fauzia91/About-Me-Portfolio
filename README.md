@@ -8,11 +8,11 @@ A web responsive about me portfolio introducing a background to personal and wor
 ***
 
 [Installation](#introduction)
-* Usage
-* Contributing
-* License
-* Credit
-* Contact
+[Usage](#usage)
+[Contributing](#contributing)
+[License](#license)
+[Credit](#credit)
+[Contact](#contact) 
 
 ### Installation
 
