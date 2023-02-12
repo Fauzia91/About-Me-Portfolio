@@ -2,7 +2,7 @@
 
 ### Project Description
 
-A web responsive about me portfolio introducing a background to personal and work related history.
+A web responsive portfolio introducing a background to personal and work history.
 
 ### Table of Contents
 ***
