@@ -4,7 +4,9 @@
 
 A web responsive portfolio introducing a background to personal and work history.
 <img src = "https://i.natgeofe.com/n/4f5aaece-3300-41a4-b2a8-ed2708a0a27c/domestic-dog_thumb_4x3.jpg" height="200px" > 
-     
+
+<img src = "/Users/fauzia/Desktop/bootcampwork/HW-1/Images/screenshot.1.png" height="200px" >      
+
 ### Table of Contents
 ***
 
