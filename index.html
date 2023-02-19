@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial=scale=1.0">
+    <title>Fauzia Personal Portfolio</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="header">
+<div class="container">
+<nav>
+    <ul id="sidemenu">
+       <li> <a href="#header">Home</a></li> 
+       <li> <a href="#about">About</a></li>
+       <li> <a href="#Portfolio">Portfolio</a></li>
+       <li> <a href="#contact">Contact</a></li>
+       <i class="fa-light fa-circle-xmark" onclick="closemenu()"></i>
+    </ul>
+    <i class="fa-light fa-bars" onclick="openmenu()"></i>
+
+</nav>
+ <div class="header-text">
+  <img src="Images/profile.png"> 
+    <p><strong>Front End Web Developer</strong></p>
+    <h1>Hi, I'm <span>Fauzia</span><br>Azad from USA</h1>
+ </div>
+</div>
+  </div>
+<div id="about">
+    <div class="container"></div>
+    <div class="row">
+        <div class="about-col 1"></div>
+        <div class="about-col 2"></div>
+         <h1 class="sub-title"><h1>About Me</h1>
+         <p><br>I'm a front-end web developer from New York City.<br>I want to welcome creativity, fashion and design to webpages.
+        <br>Coding has helped unite two of my passions and I'm excited to see the results of my efforts in the users experience.</p>
+    </div>
+          <div class="tab-titles">
+      <p class="tab-links active-link">Skills</p>
+    </div>
+    <div class="tab-contents">
+    <ul>
+      <li><span><br>Front-End</span><br>Designing Web/App interfaces</li>
+      <li><span>Web Developement</span><br>Web App Developement</li>
+      <li><span>App Developement</span><br>Building Android/iOS apps</li>
+     </ul>
+      
+        </div>
+</div>
+
+
+<div id="Portfolio">
+<div class="container">
+  <h1 class="sub-title">Portfolio</h1>
+  <div class="work-list">
+    <div class="work">
+      <img src="images/work-1.png">
+    </div>
+    <div class="work">
+      <img src="images/work-2.png">
+  </div>
+  <div class="work">
+    <img src="images/work-3.png">
+</div>
+</div>
+
+<div id="contact">
+  <div class="container">
+    <div class="row">
+      <div class="contact-left"></div>
+      <h1:class="sub-title"><br><strong>Contact Me</strong></h1>
+      <p><br>Fauzia@gmail.com</p>
+      <p>(929)586-3638</p>
+
+      </div>
+    
+    </div> 
+  </div>
+
+    </div>
+  </div>
+</div>
+
+</div>
+
+<script>
+
+var sidemenu = document.getElementById(sidemenu)
+
+function openmenu(){
+  sidemenu.style.right = "0";
+}
+function closemenu(){
+  sidemenu.style.right = "-200px";
+}
+
+
+</script>
+
+<script >src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"
+</script>
+</body>
+</html>
