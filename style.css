@@ -14,6 +14,7 @@ body{
 #header{
 width: 100%;
 height: 100%vh;
+
 background-image: url("./images/floral.png");
 background-size: cover;
 background-position: center;
@@ -92,9 +93,10 @@ nav ul li a:hover::after{
     flex-basis: 60%;
 }
 .sub-title{
-    font-size: 30px;
-    font-weight: 400;
     color: white;
+    font-weight: 400;
+    font-size: 30px;
+
 }
 .tab-titles{
     display: flex;
@@ -132,7 +134,7 @@ nav ul li a:hover::after{
     font-size: 14px;    
 }
 
-#porfolio{
+.portfolio{
     padding: 50px 0;
 }
 
@@ -162,8 +164,6 @@ nav ul li a:hover::after{
 .contact-left p{
     margin-top: 30px;
     color: pink;
-
-
 }
 .contact-left p{
     margin-right: 15px;
@@ -183,6 +183,7 @@ nav .fas{
 .header-text h1{
     font-size: 30px;
 }
+
 nav .fas{
     display: block;
     font-size: 25px;
